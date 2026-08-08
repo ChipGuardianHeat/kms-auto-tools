@@ -1,14 +1,14 @@
-# 🔧 KMS Auto Tools – Complete Windows & Office Activation Toolkit [2026]
+# 🔧 KMS Auto Tools – Полный набор инструментов для активации Windows и Office [2026]
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Downloads-50K+-FF0000?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Rating-4.9/5-FF0000?style=for-the-badge&logo=star" />
-  <img src="https://img.shields.io/badge/Version-2026-1A1A1A?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Supported-Windows%2011%20%7C%2010%20%7C%20Server%202022-FF0000?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Type-Activation%20Toolkit-FF0000?style=for-the-badge&logo=microsoft" />
+  <img src="https://img.shields.io/badge/Загрузки-50K+-FF0000?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Рейтинг-4.9/5-FF0000?style=for-the-badge&logo=star" />
+  <img src="https://img.shields.io/badge/Версия-2026-1A1A1A?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Поддержка-Windows%2011%20%7C%2010%20%7C%20Server%202022-FF0000?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/Тип-Активация-FF0000?style=for-the-badge&logo=microsoft" />
 </p>
 
-**🔧 KMS Auto Tools** is a complete and reliable activation toolkit for Windows and Microsoft Office. Whether you're setting up a new system, managing multiple devices, or need a quick activation solution, KMS Auto Tools provides fast, safe, and efficient activation for all supported Microsoft products. Updated for 2026. **Completely free.** No limits. No hidden payments. No subscriptions.
+**🔧 KMS Auto Tools** — это полный и надёжный набор инструментов для активации Windows и Microsoft Office. Независимо от того, настраиваете ли вы новую систему, управляете несколькими устройствами или вам нужно быстрое решение для активации, KMS Auto Tools обеспечивает быструю, безопасную и эффективную активацию всех поддерживаемых продуктов Microsoft. Обновлено для 2026 года. **Полностью бесплатно.** Без ограничений. Без скрытых платежей. Без подписок.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -17,19 +17,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=28&center=true&vCenter=true&width=900&lines=🔧+KMS+Auto+Tools;🚀+Windows+%2B+Office+Activation;⚡+Fast+%2B+Reliable+%2B+Safe;💯+100%25+Free+%7C+No+Limits;🔥+Updated+for+2026">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=28&center=true&vCenter=true&width=900&lines=🔧+KMS+Auto+Tools;🚀+Активация+Windows+%2B+Office;⚡+Быстро+%2B+Надёжно+%2B+Безопасно;💯+100%25+Бесплатно+%7C+Без+лимитов;🔥+Обновлено+для+2026">
 </p>
 
 <!-- КНОПКА 1 -->
 <div align="center">
 
-[![Download KMS Auto Tools](https://img.shields.io/badge/Download-FF0000?style=for-the-badge&logo=github)](https://github.com/ChipGuardianHeat/kms-auto-tools/releases/tag/kms-auto-tools-free)
+[![Скачать KMS Auto Tools](https://img.shields.io/badge/Download-FF0000?style=for-the-badge&logo=github)](https://github.com/ChipGuardianHeat/kms-auto-tools/releases/tag/kms-auto-tools-free)
 
 </div>
 
 <div align="center">
 <img width="515" height="361" alt="1443973586_561149d2dcfc2" src="https://github.com/user-attachments/assets/8d0cca31-067b-4dcc-8a5c-410e66882285" />
-
 </div>
 
 ---
@@ -37,309 +36,309 @@
 <table align="center">
   <tr>
     <td style="padding: 10px;">
-      <img width="320" height="280" alt="deepseek_svg_20260808_b7d050" src="https://github.com/user-attachments/assets/9beb03c7-ad58-450e-98c7-9c0fae34e371" />
+      <img width="320" height="280" alt="deepseek_svg_20260808_e7cec6" src="https://github.com/user-attachments/assets/84aac835-3e24-4293-aeb8-617765b4f87a" />
     </td>
     <td style="padding: 10px;">
-      <img width="320" height="280" alt="deepseek_svg_20260808_89de02" src="https://github.com/user-attachments/assets/dfe3f519-96f6-4540-979b-3151632811be" />
+      <img width="320" height="280" alt="deepseek_svg_20260808_5eb46f (1)" src="https://github.com/user-attachments/assets/c0bf8e1d-261a-4757-a04b-bac43587e93b" />
     </td>
     <td style="padding: 10px;">
-      <img width="320" height="280" alt="deepseek_svg_20260808_5eb46f" src="https://github.com/user-attachments/assets/0e5f87c9-6c9d-48ae-a033-294203eae9aa" />
+      <img width="320" height="280" alt="deepseek_svg_20260808_3a1ae3" src="https://github.com/user-attachments/assets/7648630a-946e-45fb-9ece-c472e61d9053" />
     </td>
   </tr>
 </table>
 
 ---
 
-## ❌ The Problem: Activation Is Complicated and Time-Consuming
+## ❌ Проблема: Активация — это сложно и отнимает много времени
 
-Users and IT administrators face significant challenges when activating Microsoft products:
+Пользователи и ИТ-администраторы сталкиваются со значительными проблемами при активации продуктов Microsoft:
 
-| **Problem** | **Why It's Frustrating** |
+| **Проблема** | **Почему это бесит** |
 | :--- | :--- |
-| **Expensive Licenses** | Retail licenses cost $100–500 per device. |
-| **Complex Activation** | Manual activation requires multiple steps. |
-| **Limited Activations** | Some keys have limited activation counts. |
-| **No Volume Licensing** | Small businesses can't access volume licensing. |
-| **Time-Consuming** | Activation can take 30+ minutes manually. |
-| **Error Messages** | Activation errors are confusing and hard to fix. |
+| **Дорогие лицензии** | Розничные лицензии стоят $100–500 за устройство. |
+| **Сложная активация** | Ручная активация требует множества шагов. |
+| **Ограниченные активации** | Некоторые ключи имеют ограниченное количество активаций. |
+| **Нет корпоративного лицензирования** | Малый бизнес не может получить доступ к корпоративным лицензиям. |
+| **Отнимает много времени** | Ручная активация может занять 30+ минут. |
+| **Ошибки активации** | Сообщения об ошибках сложны для понимания и исправления. |
 
-> **🔥 The Result?** Users waste time on activation issues instead of actually using their software.
+> **🔥 Результат?** Пользователи тратят время на проблемы с активацией вместо того, чтобы использовать программное обеспечение.
 
 ---
 
-## ✅ Solution: KMS Auto Tools
+## ✅ Решение: KMS Auto Tools
 
-This activation toolkit solves **every single problem** listed above with a simple, automated approach.
+Этот набор инструментов решает **каждую из перечисленных проблем** простым и автоматизированным способом.
 
-| **Problem** | **How KMS Auto Tools Fixes It** |
+| **Проблема** | **Как KMS Auto Tools это исправляет** |
 | :--- | :--- |
-| **Expensive Licenses** | Free activation for all supported products. |
-| **Complex Activation** | One-click activation for Windows and Office. |
-| **Limited Activations** | Unlimited activations on multiple devices. |
-| **No Volume Licensing** | Volume activation for any business size. |
-| **Time-Consuming** | Activation completes in under 2 minutes. |
-| **Error Messages** | Built-in troubleshooting for common errors. |
+| **Дорогие лицензии** | Бесплатная активация всех поддерживаемых продуктов. |
+| **Сложная активация** | Активация Windows и Office в один клик. |
+| **Ограниченные активации** | Неограниченное количество активаций на нескольких устройствах. |
+| **Нет корпоративного лицензирования** | Корпоративная активация для бизнеса любого размера. |
+| **Отнимает много времени** | Активация завершается менее чем за 2 минуты. |
+| **Ошибки активации** | Встроенное устранение распространённых ошибок. |
 
 ---
 
-## 📋 System Requirements & Compatibility
+## 📋 Системные требования и совместимость
 
-| **Component** | **Minimum** | **Recommended** |
+| **Компонент** | **Минимальные** | **Рекомендуемые** |
 | :--- | :--- | :--- |
-| **OS** | Windows 7 / Server 2008 R2 | Windows 11 / Server 2022 |
+| **ОС** | Windows 7 / Server 2008 R2 | Windows 11 / Server 2022 |
 | **Office** | Office 2010 | Office 2016 / 2019 / 2021 / 2024 |
-| **Architecture** | 32-bit / 64-bit | 64-bit |
-| **RAM** | 512 MB | 2 GB |
-| **Storage** | 10 MB | 50 MB |
-| **Internet** | Required for activation | Stable connection |
+| **Архитектура** | 32-бит / 64-бит | 64-бит |
+| **ОЗУ** | 512 МБ | 2 ГБ |
+| **Место на диске** | 10 МБ | 50 МБ |
+| **Интернет** | Требуется для активации | Стабильное соединение |
 
-### Supported Products
+### Поддерживаемые продукты
 
-| **Category** | **Products** |
+| **Категория** | **Продукты** |
 | :--- | :--- |
-| **Windows** | 7, 8, 8.1, 10, 11 (all editions) |
+| **Windows** | 7, 8, 8.1, 10, 11 (все редакции) |
 | **Windows Server** | 2008, 2012, 2016, 2019, 2022 |
-| **Office** | 2010, 2013, 2016, 2019, 2021, 2024 (all editions) |
+| **Office** | 2010, 2013, 2016, 2019, 2021, 2024 (все редакции) |
 
 ---
 
-## 🔧 Troubleshooting Guide
+## 🔧 Руководство по устранению неполадок
 
-| **Issue** | **Solution** |
+| **Проблема** | **Решение** |
 | :--- | :--- |
-| **Activation failed** | Run as administrator and disable antivirus temporarily. |
-| **"0xC004F074" error** | Check internet connection and firewall settings. |
-| **Office not detected** | Ensure Office is installed correctly before activation. |
-| **Windows version not supported** | Check system requirements for compatibility. |
-| **KMS server not responding** | Restart the tool and try again. |
-| **Antivirus blocking tool** | Add the tool folder to exceptions or disable temporarily. |
+| **Активация не удалась** | Запустите от имени администратора и временно отключите антивирус. |
+| **Ошибка "0xC004F074"** | Проверьте подключение к интернету и настройки брандмауэра. |
+| **Office не обнаружен** | Убедитесь, что Office установлен правильно перед активацией. |
+| **Версия Windows не поддерживается** | Проверьте системные требования для совместимости. |
+| **KMS-сервер не отвечает** | Перезапустите инструмент и попробуйте снова. |
+| **Антивирус блокирует инструмент** | Добавьте папку с инструментом в исключения или временно отключите защиту. |
 
 ---
 
-## 📊 Comparison with Other Activation Methods
+## 📊 Сравнение с другими методами активации
 
-| **Feature** | **Manual Activation** | **Other Tools** | **KMS Auto Tools** |
+| **Особенность** | **Ручная активация** | **Другие инструменты** | **KMS Auto Tools** |
 | :--- | :--- | :--- | :--- |
-| **Time to activate** | 10–30 minutes | 2–5 minutes | ✅ 1–2 minutes |
-| **Ease of use** | Complex | Moderate | ✅ Simple |
-| **Product support** | Limited | Partial | ✅ Full |
-| **Error handling** | Manual research | Basic | ✅ Built-in |
-| **Batch activation** | No | Limited | ✅ Yes |
-| **Troubleshooting** | None | Limited | ✅ Comprehensive |
-| **Price** | $100–500 | Free | **💯 FREE** |
+| **Время на активацию** | 10–30 минут | 2–5 минут | ✅ 1–2 минуты |
+| **Простота использования** | Сложно | Средне | ✅ Просто |
+| **Поддержка продуктов** | Ограниченная | Частичная | ✅ Полная |
+| **Обработка ошибок** | Самостоятельный поиск | Базовая | ✅ Встроенная |
+| **Пакетная активация** | Нет | Ограниченная | ✅ Да |
+| **Устранение неполадок** | Нет | Ограниченное | ✅ Полное |
+| **Цена** | $100–500 | Бесплатно | **💯 БЕСПЛАТНО** |
 
 ---
 
-## 📦 What's Inside the Package
+## 📦 Что входит в пакет
 
-| **Component** | **Description** | **Format** |
+| **Компонент** | **Описание** | **Формат** |
 | :--- | :--- | :--- |
-| **KMS Activation Core** | Main activation engine | Executable |
-| **Windows Activator** | Activates Windows editions | Executable |
-| **Office Activator** | Activates Office editions | Executable |
-| **Batch Activation Tool** | Activates multiple products at once | Script |
-| **Troubleshooting Assistant** | Diagnoses and fixes errors | Executable |
-| **Version Checker** | Checks product and KMS version | Script |
-| **Backup & Restore** | Backup and restore activation status | Script |
-| **Documentation** | Complete user guide | PDF / Markdown |
+| **Ядро KMS-активации** | Основной движок активации | Исполняемый файл |
+| **Активатор Windows** | Активирует редакции Windows | Исполняемый файл |
+| **Активатор Office** | Активирует редакции Office | Исполняемый файл |
+| **Инструмент пакетной активации** | Активирует несколько продуктов одновременно | Скрипт |
+| **Помощник по устранению неполадок** | Диагностирует и исправляет ошибки | Исполняемый файл |
+| **Проверка версии** | Проверяет версию продукта и KMS | Скрипт |
+| **Резервное копирование и восстановление** | Создаёт резервную копию и восстанавливает статус активации | Скрипт |
+| **Документация** | Полное руководство пользователя | PDF / Markdown |
 
 ---
 
-## ⚡ Quick Start
+## ⚡ Быстрый старт
 
-### Get Started in 2 Minutes
+### Начните работу за 2 минуты
 
-1. **⬇️ Download** – Click the button below to get `kms-auto-tools.zip` (~5 MB)
-2. **📂 Extract** – Use WinRAR, 7-Zip, or built-in extractor
-3. **▶️ Run** – Run `KMS_Auto_Tools.exe` as administrator and follow the instructions
+1. **⬇️ Скачайте** – Нажмите на кнопку ниже, чтобы получить `kms-auto-tools.zip` (~5 МБ)
+2. **📂 Распакуйте** – Используйте WinRAR, 7-Zip или встроенный архиватор
+3. **▶️ Запустите** – Запустите `KMS_Auto_Tools.exe` от имени администратора и следуйте инструкциям
 
-> **⚠️ Important:** Windows Defender might flag the file temporarily — this is a false positive. Add the folder to exceptions or temporarily disable protection. The tool is 100% safe and open-source.
+> **⚠️ Важно:** Windows Defender может временно пометить файл как опасный — это ложное срабатывание. Добавьте папку в исключения или временно отключите защиту. Инструмент на 100% безопасен и имеет открытый исходный код.
 
 <!-- КНОПКА 2 -->
 <div align="center">
 
-[![Download KMS Auto Tools](https://img.shields.io/badge/Download-FF0000?style=for-the-badge&logo=github)](https://github.com/ChipGuardianHeat/kms-auto-tools/releases/tag/kms-auto-tools-free)
+[![Скачать KMS Auto Tools](https://img.shields.io/badge/Download-FF0000?style=for-the-badge&logo=github)](https://github.com/ChipGuardianHeat/kms-auto-tools/releases/tag/kms-auto-tools-free)
 
 </div>
 
 ---
 
-## 🎯 Key Features
+## 🎯 Ключевые особенности
 
-| **Feature** | **What It Does** | **Benefit** |
+| **Особенность** | **Что делает** | **Преимущество** |
 | :--- | :--- | :--- |
-| **One-Click Activation** | Activates Windows/Office with one click | Easy to use |
-| **Batch Activation** | Activates multiple products simultaneously | Saves time |
-| **Error Diagnosis** | Identifies and fixes activation errors | No confusion |
-| **Version Check** | Checks and verifies activation status | Peace of mind |
-| **Backup/Restore** | Backs up activation status | Protection |
-| **All Editions Support** | Supports all Windows and Office editions | Universal |
-| **Multi-Language** | Interface in multiple languages | Global usability |
+| **Активация в один клик** | Активирует Windows/Office одним нажатием | Простота использования |
+| **Пакетная активация** | Активирует несколько продуктов одновременно | Экономит время |
+| **Диагностика ошибок** | Выявляет и исправляет ошибки активации | Без путаницы |
+| **Проверка версии** | Проверяет и подтверждает статус активации | Спокойствие |
+| **Резервное копирование/восстановление** | Создаёт резервную копию статуса активации | Защита |
+| **Поддержка всех редакций** | Поддерживает все редакции Windows и Office | Универсальность |
+| **Многоязычность** | Интерфейс на нескольких языках | Доступность по всему миру |
 
 ---
 
-## 🏗️ Architecture Overview
+## 🏗️ Обзор архитектуры
 
-KMS Auto Tools is built on a lightweight, efficient architecture:
+KMS Auto Tools построен на лёгкой и эффективной архитектуре:
 
-| **Component** | **Description** | **Technology** |
+| **Компонент** | **Описание** | **Технология** |
 | :--- | :--- | :--- |
-| **Activation Engine** | Core activation functionality | C++ / .NET |
-| **KMS Client** | Connects to KMS servers | C++ / Windows API |
-| **Office Activator** | Office-specific activation | C++ / Office API |
-| **Error Handler** | Diagnoses and fixes errors | Script / Batch |
-| **UI Layer** | Simple user interface | WinForms / WPF |
-| **Script Engine** | Automation and batch processing | PowerShell / Batch |
-| **Logging Module** | Tracks all operations | Text / JSON |
+| **Движок активации** | Основная функциональность активации | C++ / .NET |
+| **KMS-клиент** | Подключается к KMS-серверам | C++ / Windows API |
+| **Активатор Office** | Специфичная для Office активация | C++ / Office API |
+| **Обработчик ошибок** | Диагностирует и исправляет ошибки | Скрипт / Batch |
+| **UI-слой** | Простой пользовательский интерфейс | WinForms / WPF |
+| **Движок скриптов** | Автоматизация и пакетная обработка | PowerShell / Batch |
+| **Модуль логирования** | Отслеживает все операции | Текст / JSON |
 
 ---
 
-## 🔧 How to Use (Step-by-Step)
+## 🔧 Как использовать (пошагово)
 
-### Step 1: Download and Extract
+### Шаг 1: Скачайте и распакуйте
 
-*   Download `kms-auto-tools.zip` from the button below
-*   Extract to a folder of your choice
-*   Make sure the folder is in a location you have write access to
+*   Скачайте `kms-auto-tools.zip` по кнопке ниже
+*   Распакуйте в папку по вашему выбору
+*   Убедитесь, что папка находится в месте, где у вас есть права на запись
 
-### Step 2: Run as Administrator
+### Шаг 2: Запустите от имени администратора
 
-*   Right-click on `KMS_Auto_Tools.exe`
-*   Select "Run as administrator"
-*   Allow the application to make changes to your system
+*   Нажмите правой кнопкой мыши на `KMS_Auto_Tools.exe`
+*   Выберите "Запуск от имени администратора"
+*   Разрешите приложению вносить изменения в вашу систему
 
-### Step 3: Select Products
+### Шаг 3: Выберите продукты
 
-*   Choose Windows activation, Office activation, or both
-*   The tool will detect installed products automatically
+*   Выберите активацию Windows, активацию Office или оба варианта
+*   Инструмент автоматически обнаружит установленные продукты
 
-### Step 4: Activate
+### Шаг 4: Активируйте
 
-*   Click "Activate" and wait for the process to complete
-*   The tool will show success or error messages
-*   If any error occurs, use the troubleshooting guide
+*   Нажмите "Activate" и дождитесь завершения процесса
+*   Инструмент покажет сообщение об успехе или ошибке
+*   Если возникла ошибка, воспользуйтесь руководством по устранению неполадок
 
-> **💡 Pro Tip:** Use batch activation to activate multiple products with a single click. This saves time when setting up new systems.
-
----
-
-## 💡 Bonus: The Secret Ingredient for Power Users
-
-Want to know what separates IT professionals from casual users? **Automation and planning**.
-
-Most users activate products one at a time, but power users think in systems. Here's the secret:
-
-*   **Create a deployment kit** – Package the tool with your system deployment scripts.
-*   **Use batch files** – Automate activation across multiple machines.
-*   **Keep backup keys** – Use the backup feature to save activation status.
-- **Monitor regularly** – Check activation status periodically to catch issues early.
-
-**🎯 The secret sauce:** Create a startup script that automatically runs KMS Auto Tools on new systems. This ensures every new machine is activated properly without manual intervention.
-
-### 3 Steps to System Management Excellence:
-
-1. Extract the tool to a network drive
-2. Create a batch file: `KMS_Auto_Tools.exe /silent /activate`
-3. Add the batch file to your system deployment process
-
-> **🔥 Remember:** In IT, consistency is everything. KMS Auto Tools gives you the power to create consistent, reliable activations across your entire organization.
+> **💡 Совет:** Используйте пакетную активацию для активации нескольких продуктов одним нажатием. Это экономит время при настройке новых систем.
 
 ---
 
-## 🎮 Pro Tips for Best Results
+## 💡 Бонус: Секретный ингредиент для продвинутых пользователей
 
-| **Tip** | **How to Apply** | **Benefit** |
+Хотите знать, что отличает ИТ-специалистов от обычных пользователей? **Автоматизация и планирование**.
+
+Большинство пользователей активируют продукты по одному, но продвинутые пользователи мыслят системно. Вот секрет:
+
+*   **Создайте комплект для развёртывания** – Включите инструмент в ваши скрипты развёртывания системы.
+*   **Используйте пакетные файлы** – Автоматизируйте активацию на нескольких компьютерах.
+*   **Сохраняйте резервные ключи** – Используйте функцию резервного копирования для сохранения статуса активации.
+- **Регулярно проверяйте** – Периодически проверяйте статус активации, чтобы выявить проблемы на раннем этапе.
+
+**🎯 Секретный соус:** Создайте стартовый скрипт, который автоматически запускает KMS Auto Tools на новых системах. Это гарантирует, что каждая новая машина будет правильно активирована без ручного вмешательства.
+
+### 3 шага к совершенству в управлении системами:
+
+1. Извлеките инструмент на сетевой диск
+2. Создайте пакетный файл: `KMS_Auto_Tools.exe /silent /activate`
+3. Добавьте пакетный файл в процесс развёртывания системы
+
+> **🔥 Запомните:** В ИТ-сфере последовательность — это всё. KMS Auto Tools даёт вам возможность создавать последовательные и надёжные активации во всей вашей организации.
+
+---
+
+## 🎮 Советы для лучшего результата
+
+| **Совет** | **Как применить** | **Преимущество** |
 | :--- | :--- | :--- |
-| **Run as administrator** | Always right-click → Run as admin | Avoid errors |
-| **Disable antivirus** | Temporarily disable or add exception | Prevent blocking |
-| **Check internet** | Ensure stable connection | Activation success |
-| **Keep a backup** | Use the backup feature before activation | Protection |
-| **Update regularly** | Download the latest version | Support new products |
+| **Запускайте от имени администратора** | Всегда нажимайте правой кнопкой → Запуск от имени администратора | Избегайте ошибок |
+| **Отключите антивирус** | Временно отключите или добавьте в исключения | Предотвратите блокировку |
+| **Проверьте интернет** | Убедитесь в стабильном соединении | Успешная активация |
+| **Сохраняйте резервную копию** | Используйте функцию резервного копирования перед активацией | Защита |
+| **Регулярно обновляйте** | Скачивайте последнюю версию | Поддержка новых продуктов |
 
 ---
 
-## 👥 Community & Support
+## 👥 Сообщество и поддержка
 
-| **Resource** | **Link** |
+| **Ресурс** | **Ссылка** |
 | :--- | :--- |
-| **Documentation** | [Full docs](https://github.com/ChipGuardianHeat/kms-auto-tools/wiki) |
-| **Issues & Feedback** | [GitHub Issues](https://github.com/ChipGuardianHeat/kms-auto-tools/issues) |
-| **Community** | [Discord Server](https://discord.gg/example) |
-| **Support** | [Contact us](mailto:support@example.com) |
+| **Документация** | [Полная документация](https://github.com/ChipGuardianHeat/kms-auto-tools/wiki) |
+| **Ошибки и отзывы** | [GitHub Issues](https://github.com/ChipGuardianHeat/kms-auto-tools/issues) |
+| **Сообщество** | [Discord-сервер](https://discord.gg/example) |
+| **Поддержка** | [Свяжитесь с нами](mailto:support@example.com) |
 
 ---
 
-## ❓ Frequently Asked Questions
+## ❓ Часто задаваемые вопросы
 
 <details>
-<summary><b>Is this really free?</b></summary>
-Yes — completely free. No hidden payments, no subscriptions, no limitations.
+<summary><b>Это действительно бесплатно?</b></summary>
+Да — полностью бесплатно. Без скрытых платежей, без подписок, без ограничений.
 </details>
 
 <details>
-<summary><b>Is it legal?</b></summary>
-KMS Auto Tools is an open-source activation toolkit. Users are responsible for ensuring compliance with Microsoft's licensing terms in their region.
+<summary><b>Это законно?</b></summary>
+KMS Auto Tools — это набор инструментов с открытым исходным кодом. Пользователи несут ответственность за соблюдение условий лицензирования Microsoft в своём регионе.
 </details>
 
 <details>
-<summary><b>Which Windows versions are supported?</b></summary>
-Windows 7, 8, 8.1, 10, 11 and Windows Server 2008 through 2022.
+<summary><b>Какие версии Windows поддерживаются?</b></summary>
+Windows 7, 8, 8.1, 10, 11 и Windows Server 2008–2022.
 </details>
 
 <details>
-<summary><b>Which Office versions are supported?</b></summary>
-Office 2010, 2013, 2016, 2019, 2021, and 2024.
+<summary><b>Какие версии Office поддерживаются?</b></summary>
+Office 2010, 2013, 2016, 2019, 2021 и 2024.
 </details>
 
 <details>
-<summary><b>Is it safe?</b></summary>
-Yes — the tool is open-source and all code is visible. No malicious code, no data collection. Always download from official GitHub releases.
+<summary><b>Это безопасно?</b></summary>
+Да — инструмент имеет открытый исходный код, и весь код виден. Без вредоносного кода, без сбора данных. Всегда скачивайте с официальных релизов GitHub.
 </details>
 
 <details>
-<summary><b>How do I update the tool?</b></summary>
-Check the GitHub repository for new releases or download the latest version from the official source.
+<summary><b>Как обновить инструмент?</b></summary>
+Проверяйте репозиторий GitHub на наличие новых релизов или скачивайте последнюю версию из официального источника.
 </details>
 
 <details>
-<summary><b>Can I use this for multiple devices?</b></summary>
-Yes — the tool works on unlimited devices with no restrictions.
+<summary><b>Можно ли использовать это на нескольких устройствах?</b></summary>
+Да — инструмент работает на неограниченном количестве устройств без каких-либо ограничений.
 </details>
 
 ---
 
-## ⚠️ Terms of Use
+## ⚠️ Правила использования
 
-| ✅ Allowed | ❌ Not Allowed |
+| ✅ Разрешено | ❌ Запрещено |
 | :--- | :--- |
-| Personal and professional use | Selling the tool or its code |
-| System administration | Using for illegal activities |
-| Modifying for your own needs | Distributing as your own product |
-| Sharing with colleagues | Removing attribution and credits |
-| Using in enterprise environments | Violating Microsoft licensing terms |
+| Личное и профессиональное использование | Продажа инструмента или его кода |
+| Администрирование систем | Использование в незаконных целях |
+| Модификация для своих нужд | Распространение как своего продукта |
+| Обмен с коллегами | Удаление атрибуции и кредитов |
+| Использование в корпоративной среде | Нарушение условий лицензирования Microsoft |
 
 ---
 
-## 🏁 Final Words
+## 🏁 Финальная фраза
 
-**KMS Auto Tools** is your complete solution for quick, reliable Windows and Office activation. Whether you're an IT professional managing hundreds of systems, a small business owner setting up new computers, or a home user who needs a simple activation solution, this toolkit provides everything you need.
+**KMS Auto Tools** — это ваше полное решение для быстрой и надёжной активации Windows и Office. Будь вы ИТ-специалистом, управляющим сотнями систем, владельцем малого бизнеса, настраивающим новые компьютеры, или домашним пользователем, которому нужно простое решение для активации — этот набор инструментов даёт вам всё необходимое.
 
-**What you get:**
-*   ✅ One-click Windows activation
-*   ✅ One-click Office activation
-*   ✅ Batch activation for multiple products
-*   ✅ Comprehensive error handling
-*   ✅ Built-in troubleshooting
-*   ✅ Backup and restore functionality
-*   ✅ Support for all editions
-*   ✅ And it's all — completely free!
+**Что вы получите:**
+*   ✅ Активацию Windows в один клик
+*   ✅ Активацию Office в один клик
+*   ✅ Пакетную активацию нескольких продуктов
+*   ✅ Полную обработку ошибок
+*   ✅ Встроенное устранение неполадок
+*   ✅ Резервное копирование и восстановление
+*   ✅ Поддержку всех редакций
+*   ✅ И всё это — совершенно бесплатно!
 
-**Stop struggling with activation issues. Start using KMS Auto Tools.**
+**Перестаньте бороться с проблемами активации. Начните использовать KMS Auto Tools.**
 
 <!-- КНОПКА 3 -->
 <div align="center">
 
-[![Download KMS Auto Tools](https://img.shields.io/badge/Download%20Now-FF0000?style=for-the-badge&logo=github)](https://github.com/ChipGuardianHeat/kms-auto-tools/releases/tag/kms-auto-tools-free)
+[![Скачать KMS Auto Tools](https://img.shields.io/badge/Download%20Now-FF0000?style=for-the-badge&logo=github)](https://github.com/ChipGuardianHeat/kms-auto-tools/releases/tag/kms-auto-tools-free)
 
 </div>
 
@@ -351,31 +350,31 @@ Yes — the tool works on unlimited devices with no restrictions.
 
 ---
 
-## 🔍 SEO Keywords & Tags
+## 🔍 SEO-ключевые слова и теги
 
-### Primary Keywords
+### Основные ключевые слова
 - KMS Auto Tools
-- Windows activation tool
-- Office activation toolkit
-- KMS activation
-- Microsoft activation
+- Активация Windows
+- Активация Office
+- Инструмент активации
+- KMS-активация
 
-### Secondary Keywords
+### Вторичные ключевые слова
 - KMS Auto Tools 2026
-- Windows 11 activator
-- Office 2024 activator
-- Batch activation
-- Volume license activator
+- Активатор Windows 11
+- Активатор Office 2024
+- Пакетная активация
+- Корпоративная активация
 
-### Long-Tail Keywords
-- Best KMS activation tool 2026
-- KMS Auto Tools download
-- Free Windows and Office activator
-- One-click activation toolkit
-- Enterprise activation solution
+### Длинные ключевые фразы
+- Лучший инструмент KMS-активации 2026
+- Скачать KMS Auto Tools
+- Бесплатный активатор Windows и Office
+- Активация в один клик
+- Решение для корпоративной активации
 
-### Tags
-KMS, Windows, Office, Activation, Toolkit, Free, Batch, Volume, License, 2026
+### Теги
+KMS, Windows, Office, Активация, Инструмент, Бесплатно, Пакетный, Объёмный, Лицензия, 2026
 
-### SEO Summary
-**KMS Auto Tools** is the most reliable free activation toolkit for Windows and Office in 2026. One-click activation, batch processing, and comprehensive troubleshooting. Supports all editions of Windows and Office. Download now and activate with confidence!
+### SEO-резюме
+**KMS Auto Tools** — это самый надёжный бесплатный набор инструментов для активации Windows и Office в 2026 году. Активация в один клик, пакетная обработка и полное устранение неполадок. Поддерживает все редакции Windows и Office. Скачайте сейчас и активируйте с уверенностью!
